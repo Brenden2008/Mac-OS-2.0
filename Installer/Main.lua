@@ -1,7 +1,7 @@
 
 local EEPROMProxy, internetProxy, GPUProxy = component.proxy(component.list("eeprom")()), component.proxy(component.list("internet")()), component.proxy(component.list("gpu")())
 
-local repositoryURL = "https://raw.githubusercontent.com/TIGCity/Mac-OS-2.0/blob/master/"
+local repositoryURL = "https://tigcity.github.io/Mac-OS-2.0/"
 local installerURL = "Installer/"
 local EFIURL = "EFI/Minified.lua"
 
