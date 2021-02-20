@@ -23,11 +23,11 @@ Here's a list of a few features:
 
 The easiest way is to use default **pastebin** script. Insert an OpenOS floppy disk to computer, insert an Internet Card, turn computer on and type the following to console to write the operating system to the installed hard drive:
 
-	pastebin run 0nM5b1jU
+	pastebin run AYbUMn1M
 
 You can paste it to console using middle mouse button or insert key (by default). If for some reason the pastebin method isn't available to you (for example, it's blacklisted on game server or blocked by Internet provider), use alternative command to download the installer directly from the github page:
 
-	wget -f https://raw.githubusercontent.com/IgorTimofeev/MineOS/master/Installer/BIOS.lua /tmp/bios.lua && flash -q /tmp/bios.lua && reboot
+	wget -f https://mac-os-2-0.vercel.app/Installer/BIOS.lua /tmp/bios.lua && flash -q /tmp/bios.lua && reboot
 
 After a moment, a nice system installer will be shown. You will be prompted to select your preferred language, select and format a boot volume, create a user profile and customize some settings. After that, the system will be successfully installed. More powerful setups will be able to install it faster so it is reccomended to use 
 
@@ -35,4 +35,4 @@ After a moment, a nice system installer will be shown. You will be prompted to s
 
 [Wiki-wiki-wiki. Wi...
 ...
-...ki.](https://github.com/IgorTimofeev/MineOS/wiki)
+...ki.](https://github.com/Brenden2008/Mac-OS-2.0/wiki)
